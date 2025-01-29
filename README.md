@@ -51,8 +51,19 @@ This tool is intended for educational purposes only. Unauthorized use may violat
 - Enhanced skills in Python programming, GUI design, and real-time packet analysis.
 - Ethical considerations in network analysis.
 
-## Contribution
-Feel free to fork the repository and submit pull requests for improvements or bug fixes.
+# Contact Information
 
-## Contact
-For questions or discussions, please reach out on LinkedIn: Shruti Joshi.
+- **Email**: shrutisjoshi3110@gmail.com
+- **LinkedIn**: [Shruti Joshi](https://www.linkedin.com/in/shruti-joshi)
+
+# Engage with Me
+
+Feel free to:
+
+- **Fork this Repository**: Contribute to the project by enhancing features or fixing issues.
+- **Report Issues or Suggest Features**: Submit bug reports or propose new ideas.
+- **Reach Out for Discussions**: I’m open to discussions on cybersecurity, algorithms, and programming in general.
+
+Thank you for your interest in this project! Let's work together to create secure, user-friendly tools.
+
+Happy coding! 🚀
