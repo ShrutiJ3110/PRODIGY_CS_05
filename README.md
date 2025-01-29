@@ -54,8 +54,8 @@ This tool is intended for educational purposes only. Unauthorized use may violat
 ## Contact Information
 
 - **Email**: shrutisjoshi3110@gmail.com
-- **LinkedIn**: [Shruti Joshi](https://www.linkedin.com/in/shruti-joshi)
-
+- **LinkedIn**: [Shruti Joshi](https://www.linkedin.com/in/shruti-joshi-572820297)
+  
 ## Engage with Me
 
 Feel free to:
