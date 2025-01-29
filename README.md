@@ -51,12 +51,12 @@ This tool is intended for educational purposes only. Unauthorized use may violat
 - Enhanced skills in Python programming, GUI design, and real-time packet analysis.
 - Ethical considerations in network analysis.
 
-# Contact Information
+## Contact Information
 
 - **Email**: shrutisjoshi3110@gmail.com
 - **LinkedIn**: [Shruti Joshi](https://www.linkedin.com/in/shruti-joshi)
 
-# Engage with Me
+## Engage with Me
 
 Feel free to:
 
